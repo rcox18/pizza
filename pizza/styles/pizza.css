@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+fieldset
+{
+    border: 1px solid darkgreen;
+    padding: 1em;
+}
+
+.jumbotron
+{
+    background-color: green;
+    color: white;
+}
+
+body
+{
+    background-color: red;
+}
+
+.container
+{
+    background-color: white;
+    margin-bottom: 10em;
+}
+
+#submit
+{
+    background-color: green;
+    margin-bottom: 10px;
+}
+
+legend
+{
+    color: darkgreen;
+    font-size:125%;
+    font-weight: bold;
+    font-variant: small-caps;
+}
